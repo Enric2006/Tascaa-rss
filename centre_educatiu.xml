@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Notícies de Centres Educatius</title>
+<link>https://github.com/Enric2006/Tascaa-rss.git</link>
+<description>Actualitat sobre l'IES Joan Alcover i altres centres educatius.</description>
+<language>ca</language>
+
+<item>
+<title>Els alumnes de l'IES Joan Alcover desconvoquen la vaga</title>
+<link>https://www.diariodemallorca.es/mallorca/2026/02/10/alumnos-ies-joan-alcover-desconvocan-126662530.html</link>
+<description>Els estudiants han decidit aturar la protesta després del compromís de reparació immediata de les instal·lacions.</description>
+<pubDate>Tue, 10 Feb 2026 10:00:00</pubDate>
+</item>
+
+<item>
+<title>Novetats en la gestió dels centres educatius</title>
+<link>https://elpais.com/noticias/centros-educativos/</link>
+<description>Recull d'actualitat i articles d'opinió sobre el sistema educatiu i els col·legis.</description>
+<pubDate>Wed, 11 Feb 2026 09:00:00</pubDate>
+</item>
+</channel>
+</rss>
